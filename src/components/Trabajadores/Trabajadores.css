@@ -1,0 +1,12 @@
+.trabajadores {
+  padding: 20px;
+}
+
+.trabajadores h2 {
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+.trabajadores p {
+  font-size: 18px;
+}
